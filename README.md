@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer and developing Backend.</h3>
+<h1 align="center">Your friendly neighborhood coder. Ishaan Jain</h1>
+<h3 align="center">I'm a passionate code myself.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
